@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-- 🌱 I’m currently learning **NODE, EXPRESSJS**
+- 🌱 I’m a MERN-STACK DEVELOPER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
